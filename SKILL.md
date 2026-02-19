@@ -4,7 +4,7 @@ description: Apply the Buddha's foundational framework to diagnose any form of s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4039
+  version: 1.0.4040
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - four-noble-truths-diagnosis
